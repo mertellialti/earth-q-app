@@ -20,7 +20,7 @@ Before starting, make sure you have the following:
 1. **Clone the Repository**
 
 ```bash
-git clone [your-frontend-repository-link]
+git clone https://github.com/mertellialti/earth-q-app
 cd EarthQ-Frontend
 ```
 
