@@ -21,7 +21,7 @@ Before starting, make sure you have the following:
 
 ```bash
 git clone https://github.com/mertellialti/earth-q-app
-cd EarthQ-Frontend
+cd earth-q-app
 ```
 
 2. **Install Dependencies**
